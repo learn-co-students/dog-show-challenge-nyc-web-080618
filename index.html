@@ -16,11 +16,12 @@
       <h1 class='padding margin'>Westminster Kennel Club Dog Show</h1>
 
       <div class="margin flex">
-        <h4 class='center'>Edit Existing Dog</h4>
+        <h4 id="create-edit" class='center'>Create New Dog</h4>
         <form id='dog-form' class="padding margin border-round border-grey">
-          <input type="name" name="name" placeholder="name" value="">
-          <input type="breed" name="breed" placeholder="breed" value="">
-          <input type="sex" name="sex" placeholder="sex" value="">
+          <input type="hidden" id="dog-id" value="">
+          <input type="name" id="name" placeholder="name" value="">
+          <input type="breed" id="breed" placeholder="breed" value="">
+          <input type="sex" id="sex" placeholder="sex" value="">
           <input type="submit"value="Submit">
         </form>
       </div>
@@ -35,6 +36,9 @@
               <th class='padding center'>Sex</th>
               <th class='padding center'>Edit Dog</th>
             </tr>
+            <tbody id= "dog-data" class="">
+
+            </tbody>
           </thead>
           <tbody id="table-body">
           </tbody>
