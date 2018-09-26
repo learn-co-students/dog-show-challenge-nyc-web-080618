@@ -29,6 +29,13 @@
               },
               body:JSON.stringify({name:name.value,breed:breed.value,sex:sex.value})
             }).then(res=>res.json())
+            .then(data=>{
+              const dog=dogController.lists.find(dog=>dog.id==data.id)
+              dog.name=data.name
+              dog.breed=data.breed
+              dog.sex=data.sex
+              dogData.innerHTML=dogController.render()
+            })
           }//submit edit form
          else {
 

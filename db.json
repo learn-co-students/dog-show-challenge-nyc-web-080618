@@ -2,9 +2,9 @@
   "dogs": [
     {
       "id": 1,
-      "name": "Baby",
+      "name": "Bab",
       "breed": "Scottish Deerhound",
-      "sex": "male"
+      "sex": "aa"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
     },
     {
       "id": 3,
-      "name": "Snickers",
+      "name": "Snick",
       "breed": "Dachshund",
       "sex": "female"
     },
@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Gracie",
-      "breed": "Miniature Pinscher",
+      "breed": "Mini",
       "sex": "female"
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "id": 8,
-      "name": "Chloe",
+      "name": "Chloe111",
       "breed": "Dandie Terrier",
       "sex": "male"
     },
@@ -149,18 +149,6 @@
       "breed": "Miniature Pinscher",
       "sex": "male",
       "id": 25
-    },
-    {
-      "name": "t1145",
-      "breed": "t1145",
-      "sex": "t1145",
-      "id": 26
-    },
-    {
-      "name": "a",
-      "breed": "b",
-      "sex": "c",
-      "id": 27
     }
   ]
 }

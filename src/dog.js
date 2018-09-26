@@ -8,11 +8,13 @@ class Dog {
   }
 
   render(){
-  return ` <tr>
+  return `
+      <tr>
       <td>${this.name}</td>
       <td>${this.breed}</td>
       <td>${this.sex}</td>
-      <td><button id="${this.id}" class="edit">Edit</button></td>
-    </tr>`
+      <td><button id="${this.id}" class="edit">Edit Or Create</button></td>
+    </tr>
+       `
   }
 }
