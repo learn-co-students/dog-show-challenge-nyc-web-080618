@@ -2,39 +2,39 @@
   "dogs": [
     {
       "id": 1,
-      "name": "rrr",
-      "breed": "rrr",
-      "sex": "male"
+      "name": "yan",
+      "breed": "hh",
+      "sex": "f"
     },
     {
       "id": 2,
-      "name": "Teddy",
-      "breed": "Rhodesian Ridgeback",
-      "sex": "female"
+      "name": "akd",
+      "breed": "jaf;df",
+      "sex": "akjsg"
     },
     {
       "id": 3,
-      "name": "Snickers",
-      "breed": "Dachshund",
-      "sex": "female"
+      "name": "anf",
+      "breed": "fhai",
+      "sex": "hfar"
     },
     {
       "id": 4,
-      "name": "Harvey",
-      "breed": "Irish Spaniel",
-      "sex": "male"
+      "name": "",
+      "breed": "",
+      "sex": ""
     },
     {
       "id": 5,
-      "name": "Gracie",
-      "breed": "Miniature Pinscher",
-      "sex": "female"
+      "name": "",
+      "breed": "",
+      "sex": ""
     },
     {
       "id": 6,
-      "name": "Oreo",
-      "breed": "English Springer",
-      "sex": "male"
+      "name": "Or",
+      "breed": "English Spri",
+      "sex": "ma"
     },
     {
       "id": 7,
